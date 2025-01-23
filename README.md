@@ -18,7 +18,7 @@
 💡 **Full-Stack Enthusiast** | React.js, MongoDB, MySQL  
 💡 **AI & ML Explorer**
 
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/navneetg2003) | [Twitter](https://twitter.com/Navneetg2003)  
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/navneetgupta/) | [Twitter](https://x.com/navgupta1302)  
 
 ---
 
@@ -34,47 +34,38 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
   
 ### 🚀 Programming & Scripting  
-  
-![C](https://img.icons8.com/ios/50/ffffff/c.png)  
-![C++](https://img.icons8.com/ios/50/ffffff/c-plus-plus-logo.png)  
-![Java](https://img.icons8.com/ios/50/ffffff/java-coffee-cup-logo.png)  
-![Python](https://img.icons8.com/ios/50/ffffff/python.png)  
-![JavaScript](https://img.icons8.com/ios/50/ffffff/javascript.png)  
 
+<img src="https://img.icons8.com/ios/50/ffffff/c-plus-plus-logo.png" width="40" alt="C++">&nbsp;
+<img src="https://img.icons8.com/ios/50/ffffff/java-coffee-cup-logo.png" width="40" alt="Java">&nbsp;
+<img src="https://img.icons8.com/ios/50/ffffff/python.png" width="40" alt="Python">&nbsp;
+<img src="https://img.icons8.com/ios/50/ffffff/javascript.png" width="40" alt="JavaScript">&nbsp;
 ### 🌐 Backend & Databases  
 
-![Spring Boot]()  
-![Node.js](https://img.icons8.com/ios/50/ffffff/node-js.png)  
-![MongoDB](https://github.com/Navneetg2003/assets/blob/main/mongodb.png?raw=true)  
-![MySQL](https://img.icons8.com/ios/50/ffffff/mysql.png)  
-![PostgreSQL](https://img.icons8.com/ios/50/ffffff/postgresql.png)
-
+<img src="https://img.icons8.com/ios/50/ffffff/spring-logo.png" width="40" alt="Spring Boot">&nbsp;
+<img src="https://img.icons8.com/ios/50/ffffff/node-js.png" width="40" alt="Node.js">&nbsp;
+<img src="https://github.com/Navneetg2003/assets/blob/main/mongodb.png?raw=true" width="40" alt="MongoDB">&nbsp;
+<img src="https://img.icons8.com/ios/50/ffffff/mysql.png" width="40" alt="MySQL">&nbsp;
+<img src="https://img.icons8.com/?size=100&id=25010&format=png&color=ffffff" width="40" alt="PostgreSQL">&nbsp;
 ### 🖥️ DevOps & Tools  
 
-![Docker](https://img.icons8.com/ios/50/ffffff/docker.png)  
-![Git](https://img.icons8.com/ios/50/ffffff/git.png)  
-![GitHub](https://img.icons8.com/ios/50/ffffff/github.png)  
+<img src="https://img.icons8.com/ios/50/ffffff/docker.png" width="40" alt="Docker">&nbsp;
+<img src="https://img.icons8.com/ios/50/ffffff/git.png" width="40" alt="Git">&nbsp;
+<img src="https://img.icons8.com/ios/50/ffffff/github.png" width="40" alt="GitHub">&nbsp;
 
-</td>
-
-<td width="50%">
+</td> <td width="50%" valign="top">
 
 ### 🎨 Frontend & Mobile  
 
-![React](https://img.icons8.com/ios/50/ffffff/react-native.png)  
-![HTML5](https://img.icons8.com/ios/50/ffffff/html-5.png)  
-![CSS3](https://img.icons8.com/ios/50/ffffff/css3.png)  
+<img src="https://img.icons8.com/ios/50/ffffff/react-native.png" width="40" alt="React">&nbsp;
+<img src="https://img.icons8.com/ios/50/ffffff/html-5.png" width="40" alt="HTML5">&nbsp;
+<img src="https://img.icons8.com/ios/50/ffffff/css3.png" width="40" alt="CSS3">&nbsp;
 
-### 🤖 AI/ML 
+### 🤖 AI/ML  
 
-![PyTorch](https://img.icons8.com/ios/50/ffffff/pytorch.png)  
-
-### 🔐 Cybersecurity & Others  
-
-![Encryption](https://img.icons8.com/ios/50/ffffff/encryption.png)
+<img src="https://img.icons8.com/ios/50/ffffff/pytorch.png" width="40" alt="PyTorch">&nbsp;
 
 </td>
 </tr>
