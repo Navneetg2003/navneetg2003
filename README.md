@@ -1,8 +1,9 @@
-
+![header](https://github.com/Navneetg2003/assets/blob/main/85922fcb-1586-4072-8475-659df9601f43.png)
 
 <div>
   <h1>
-
+    <img src="about_me.gif" width="50px"><b> About Me </b>
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nihalawasthi.nihalawasthi">
 </h1>
 </div>
 🔐 Cybersecurity enthusiast specializing in Blockchain Analysis, Reverse Engineering, and System Administration. Passionate about encryption, vulnerability detection, and AI-driven solutions.
