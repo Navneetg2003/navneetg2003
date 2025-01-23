@@ -6,7 +6,7 @@
 <div>
   <h1>
     <img src="about_me.gif" width="50px"><b> About Me </b>
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=navneetg2003.navneetg2003">
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nihalawasthi.nihalawasthi">
 </h1>
 </div>
 
