@@ -1,107 +1,90 @@
+### 🚀 Navneet Gupta | Software Developer  
+🔹 Java | Spring Boot | MERN | Machine Learning | DevOps Enthusiast  
+🔹 Passionate about building scalable solutions & exploring Cloud Computing  
+
 ![header](https://github.com/Navneetg2003/assets/blob/main/85922fcb-1586-4072-8475-659df9601f43.png)
 
-<div>
-  <h1>
-    <img src="about_me.gif" width="50px"><b> About Me </b>
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nihalawasthi.nihalawasthi">
-</h1>
-</div>
-🔐 Cybersecurity enthusiast specializing in Blockchain Analysis, Reverse Engineering, and System Administration. Passionate about encryption, vulnerability detection, and AI-driven solutions.
+---
+## 👨‍💻 About Me  
+<img align="right" src="https://github.com/Navneetg2003/assets/blob/main/about_me.gif" width="120px">
+
+💡 **Backend Developer** | Java, Spring Boot, Node.js  
+💡 **Full-Stack Enthusiast** | React.js, MongoDB, MySQL  
+💡 **AI & ML Explorer**
+
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/navneetg2003) | [Twitter](https://twitter.com/Navneetg2003)  
 
 ---
 
+## 🏆 GitHub Achievements  
 <div align="center">  
-  
-  
-  
-</div>
+  <img src="https://github-trophy.vercel.app/?username=Navneetg2003&margin-w=10&theme=radical">
+</div>  
 
-<hr>
-<div align="center"> <img src="https://github-trophy.vercel.app/?username=nihalawasthi&margin-w=10"></div>
-<hr>
+---
 
-<table border="none" style="display: flex;">
- <tr><td><table width="45%">
-    <tr>
-      <th>Category</th>
-      <th>Skills</th>
-    </tr>
-    <tr>
-      <td><b>Programming Languages</b></td>
-      <td>
-        <img src="https://img.icons8.com/ios/50/ffffff/c.png" width="40" alt="C"> &nbsp;
-        <img src="https://img.icons8.com/?size=100&id=55204&format=png&color=ffffff" width="40" alt="C#"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/c-plus-plus-logo.png" width="40" alt="C++"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/python.png" width="40" alt="Python"> &nbsp;
-      </td>
-    </tr>
-    <tr>
-      <td><b>Backend Development</b></td>
-      <td>
-        <img src="https://img.icons8.com/ios/50/ffffff/django.png" width="40" alt="Django"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/php.png" width="40" alt="PHP"> &nbsp;
-        <img src="https://img.icons8.com/?size=100&id=25010&format=png&color=ffffff" width="40" alt="PostgreSQL"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/mysql.png" width="40" alt="MySQL"> &nbsp;
-      </td>
-    </tr>
-    <tr>
-      <td><b>Cybersecurity</b></td>
-      <td>
-        <img src="https://img.icons8.com/?size=100&id=21605&format=png&color=ffffff" width="40" alt="Security"> &nbsp;
-        <img src="https://img.icons8.com/?size=100&id=30891&format=png&color=ffffff" width="40" alt="Encryption"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/blockchain.png" width="40" alt="Blockchain"> &nbsp;
-        <img src="https://img.icons8.com/?size=100&id=1570&format=png&color=ffffff" width="40" alt="Reverse Engineering">
-        &nbsp;
-      </td>
-    </tr>
-    <tr>
-      <td><b>DevOps/Version Control</b></td>
-      <td>
-        <img src="https://img.icons8.com/ios/50/ffffff/git.png" width="40" alt="Git"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/github.png" width="40" alt="GitHub Pages"> &nbsp;
-      </td>
-    </tr>
-  </table></td><td>
-  <table width="45%">
-    <tr>
-      <th>Category</th>
-      <th>Skills</th>
-    </tr>
-    <tr>
-      <td><b>AI/Automation</b></td>
-      <td>
-        <img src="https://img.icons8.com/ios/50/ffffff/artificial-intelligence.png" width="40" alt="AI Assistant"> &nbsp;
-        <img src="https://img.icons8.com/?size=100&id=419&format=png&color=ffffff" width="40" alt="Scripting Automation">
-        &nbsp;
-      </td>
-    </tr>
-    <tr>
-      <td><b>Operating Systems</b></td>
-      <td>
-        <img src="https://img.icons8.com/?size=100&id=tpIcYSg4KMn0&format=png&color=ffffff" width="40" alt="Windows">
-        &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/android.png" width="40" alt="Android"> &nbsp;
-        <img src="https://img.icons8.com/?size=100&id=965&format=png&color=ffffff" width="40" alt="Chrome OS"> &nbsp;
-        <img src="https://img.icons8.com/?size=100&id=lkk6STbDNYML&format=png&color=ffffff" width="40" alt="Linux"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/mac-os.png" width="40" alt="macOS"> &nbsp;
-      </td>
-    </tr>
-    <tr>
-      <td><b>Front-End Development</b></td>
-      <td>
-        <img src="https://img.icons8.com/ios/50/ffffff/html-5.png" width="40" alt="HTML5"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/css3.png" width="40" alt="CSS3"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/javascript.png" width="40" alt="JavaScript"> &nbsp;
-      </td>
-    </tr>
-    <tr>
-      <td><b>Extras</b></td>
-      <td>
-        <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=ffffff" width="40" alt="Shell Script">
-        &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/powershell.png" width="40" alt="PowerShell"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/markdown.png" width="40" alt="Markdown">&nbsp;
-      </td>
-    </tr>
-  </table></td></tr>
+
+## 💻 Tech Stack  
+
+<table>
+<tr>
+<td width="50%">
+  
+### 🚀 Programming & Scripting  
+  
+![C](https://img.icons8.com/ios/50/ffffff/c.png)  
+![C++](https://img.icons8.com/ios/50/ffffff/c-plus-plus-logo.png)  
+![Java](https://img.icons8.com/ios/50/ffffff/java-coffee-cup-logo.png)  
+![Python](https://img.icons8.com/ios/50/ffffff/python.png)  
+![JavaScript](https://img.icons8.com/ios/50/ffffff/javascript.png)  
+
+### 🌐 Backend & Databases  
+
+![Spring Boot](https://img.icons8.com/ios/50/ffffff/spring-logo.png)  
+![Node.js](https://img.icons8.com/ios/50/ffffff/node-js.png)  
+![MongoDB](https://img.icons8.com/ios/50/ffffff/mongodb.png)  
+![MySQL](https://img.icons8.com/ios/50/ffffff/mysql.png)  
+![PostgreSQL](https://img.icons8.com/ios/50/ffffff/postgresql.png)
+
+### 🖥️ DevOps & Tools  
+
+![Docker](https://img.icons8.com/ios/50/ffffff/docker.png)  
+![Git](https://img.icons8.com/ios/50/ffffff/git.png)  
+![GitHub](https://img.icons8.com/ios/50/ffffff/github.png)  
+
+</td>
+
+<td width="50%">
+
+### 🎨 Frontend & Mobile  
+
+![React](https://img.icons8.com/ios/50/ffffff/react-native.png)  
+![HTML5](https://img.icons8.com/ios/50/ffffff/html-5.png)  
+![CSS3](https://img.icons8.com/ios/50/ffffff/css3.png)  
+
+### 🤖 AI/ML 
+
+![PyTorch](https://img.icons8.com/ios/50/ffffff/pytorch.png)  
+
+### 🔐 Cybersecurity & Others  
+
+![Encryption](https://img.icons8.com/ios/50/ffffff/encryption.png)
+
+</td>
+</tr>
 </table>
+
+---
+
+## 📈 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Navneetg2003&show_icons=true&theme=radical&hide=issues">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navneetg2003&theme=radical">
+</div>  
+
+---
+
+### ✨ Fun Fact  
+📌 _I love exploring new technologies and building automation tools._  
