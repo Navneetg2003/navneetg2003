@@ -2,7 +2,7 @@
 🔹 Java | Spring Boot | MERN | Machine Learning | DevOps Enthusiast  
 🔹 Passionate about building scalable solutions & exploring Cloud Computing  
 
-![header](https://github.com/Navneetg2003/assets/blob/main/85922fcb-1586-4072-8475-659df9601f43.png)
+![header](https://github.com/Navneetg2003/assets/blob/main/85922fcb-1586-4072-8475-659df9601f43.png?raw=true)
 <div>
   <h1>
     <img src="about_me.gif" width="50px"><b> About Me </b>
