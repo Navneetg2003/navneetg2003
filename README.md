@@ -2,7 +2,6 @@
 
 <div>
   <h1>
-    <img src="about_me.gif" width="50px"><b> About Me </b>
 
 </h1>
 </div>
