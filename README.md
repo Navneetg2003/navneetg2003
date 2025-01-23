@@ -13,7 +13,7 @@
 <div align="center">  
   
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihalawasthi&theme=react-dark&custom_title=Contribution%20Graph&hide_border=true&hide_border=false&count_private=true" height="150" alt="GitHub Stats"   />
+  
 </div>
 
 <hr>
