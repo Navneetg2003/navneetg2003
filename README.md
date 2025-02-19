@@ -11,9 +11,6 @@
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nihalawasthi.nihalawasthi">
 </h1>
 </div>
-
----
-## 👨‍💻 About Me  
 <img align="right" src="https://github.com/Navneetg2003/assets/blob/main/about_me.gif" width="120px">
 
 💡 **Backend Developer** | Java, Spring Boot, Node.js  
