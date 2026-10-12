@@ -1,5 +1,3 @@
-<h3 align="center">नमस्ते</h3>
-
 <h2 align="center">Navneet Gupta | Backend and AI Engineer</h2>
 
 <p align="center">
